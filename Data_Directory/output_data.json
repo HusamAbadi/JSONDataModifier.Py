@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": "abc123",
+        "identifier_image": "pngwing.png",
+        "results": [
+            0,
+            1,
+            2,
+            3,
+            5
+        ],
+        "result_image": "human_body_1.jpg",
+        "confirmed_identifier": "ABC123",
+        "confirmed_results": [
+            1,
+            3,
+            2,
+            4,
+            1
+        ]
+    },
+    {
+        "identifier": "abc567",
+        "identifier_image": "pngwing.png",
+        "results": [
+            2,
+            3,
+            4,
+            3,
+            2
+        ],
+        "result_image": "human_body_2.jpg",
+        "confirmed_identifier": "abc567",
+        "confirmed_results": [
+            2,
+            3,
+            1,
+            3,
+            2
+        ]
+    }
+]
